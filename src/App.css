@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #1a1f1a;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,284 @@
   to {
     transform: rotate(360deg);
   }
+}
+.example1 {
+  max-width: 100%;
+    height: 700px;
+  padding: 100px;
+  background: url(http://localhost:3000/photo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+        
+}
+.example2 {
+  max-width: 100%;
+    height: 650px;
+  padding: 100px;
+  background: url(http://localhost:3000/BG1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+        
+}
+.contact{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/ContactUs.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.ngo{
+  max-width: 90%;
+  height: 445px;
+padding: 100px;
+background: url(http://localhost:3000/ngo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.wdt{  
+  width: 100%  !important;  
+}  
+.img  
+{  
+  height: 580px !important;  
+  width:1500px;
+} 
+/*-------------------------------------------------------------------------*/
+.admin{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/admin.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.admin1{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/admin/ngo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.admin3{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/admin/admin3.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+/*-------------------------------------------------------------------------*/
+.emp{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/admin/employee.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.addemp{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/admin/hands1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+/*-------------------------------------------------------------------------*/
+.donor{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/donor/photo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.donor1{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/donor/love.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.donor2{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/donor/love3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.donor3{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/donor/donate.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.donor4{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/donor/love4.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.donations{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/donor/donations.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.donations2{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/donor/donations2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+/*-------------------------------------------------------------------------*/
+.emp1{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/employee/emp.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.emp2{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/employee/work1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.emp3{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/employee/work2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.emp4{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/employee/work3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.emp5{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/employee/work4.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.emp6{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/employee/work5.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.need{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/employee/need.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+/*-----------------------------------------------------------------*/
+.needy1{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/needy/poor.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+.needy2{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/needy/poor1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+.needy3{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/needy/plain.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+/*-----------------------------------------------------------------*/
+.sign1{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/SignUp/sign1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.sign2{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/SignUp/sign.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.sign3{
+  max-width: 100%;
+  height: 650px;
+padding: 100px;
+background: url(http://localhost:3000/SignUp/sign3.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
 }
